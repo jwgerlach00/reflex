@@ -1,7 +1,7 @@
 % Jacob Gerlach
 % jwgerlac@ncsu.edu
 % 10/14/2020
-% PA7part1_GERLACH.m
+% reflex.m
 % 
 % Displays stats regarding reflex data in relation to age given an excel
 % file input
